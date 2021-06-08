@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "簡訊實聯制(非官方)"

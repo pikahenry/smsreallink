@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">簡訊實聯制(非官方)</string>
+    <string name="scan">scan</string>
+    <string name="sending">簡訊傳送中，將移至簡訊應用程式供查驗</string>
+    <string name="not_permitted">請授權相機及簡訊權限，以便掃描及寄送實聯制簡訊</string>
+    <string name="scan_qr">請對準店家提供的疾管署QR CODE</string>
+    <string name="qr_error">格式錯誤，請掃描帶有疾管署之QR CODE</string>
+    <string name="permit">去授權</string>
+    <string name="permission_hint">點選按鍵前往應用程式設定，並授權以下權限：\n1. 相機 (掃描QR CODE)\n2. 簡訊 (傳送實聯制簡訊)</string>
+</resources>
